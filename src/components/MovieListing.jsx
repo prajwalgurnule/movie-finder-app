@@ -70,7 +70,7 @@ export const MovieListing = () => {
 
   return (
     <div
-      className={`px-5 py-8 min-h-screen transition-colors duration-300 ${
+      className={`px-5 py-8 min-h-screen transition-colors duration-500 ${
         darkMode ? "bg-gray-900 text-white" : "bg-gray-100 text-gray-900"
       }`}
     >
